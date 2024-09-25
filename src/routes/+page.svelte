@@ -16,12 +16,13 @@
 
 <Seo {title} {metadescription} />
 
-<div class="mt-16 flex flex-col items-center gap-16 px-4 lg:mt-32 lg:gap-32">
+<div class="mt-16 flex flex-col items-center gap-16 px-2 lg:mt-12 lg:gap-12">
   <Hero />
   <HeroImage />
 </div>
+
 <section
-  class="section-full mt-12 flex flex-col items-center bg-white pb-12 pt-12 dark:bg-neutral-200 lg:mt-40 lg:pb-40 lg:pt-20"
+  class="section-full mt-12 flex flex-col items-center bg-white pb-12 pt-12 dark:bg-neutral-200 lg:mt-20 lg:pb-20 lg:pt-20"
 >
   <h2
     class="mb-8 bg-gradient-to-r from-primary-100 via-accent-magenta to-accent-cyan bg-clip-text text-3xl font-bold text-transparent dark:to-primary-400 lg:mb-12 lg:text-4xl"
